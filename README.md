@@ -1,4 +1,5 @@
-#hasztag #SWAG
+#hasztag SWAG
+
 ##mały SWAG
   * PELE
   * PELE 
