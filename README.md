@@ -1,4 +1,4 @@
 # Ragnarok
 
 ## Koniec świata
-  ![](ALLAH.jpg)
+  ![](drzwo.jpg)
